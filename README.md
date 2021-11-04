@@ -1,2 +1,2 @@
 # hpw
-store hash password
+store hashed password
